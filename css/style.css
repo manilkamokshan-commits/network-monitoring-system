@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+html,body{
+    background:white;
+    min-height:100%;
+}
+
+.app-sidebar{
+    width:200pximportant;
+}
+
+
+.app-sidebar .brand-link{
+    color:#2563eb !important;
+}
+
+.small-box{
+
+    border-radius:10px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+
+}
+
+.success{
+
+background:#d1fae5;
+
+color:#065f46;
+
+padding:10px;
+
+border-radius:5px;
+
+margin-bottom:15px;
+
+}
+
+.dark-mode {
+    background-color: #1a1a2e !important;
+    color: #e0e0e0 !important;
+}
