@@ -63,9 +63,6 @@ The project includes a Cisco Packet Tracer network topology containing:
 
 ## Screenshots
 
-### Login Page
-![Login](screenshots/login.png)
-
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
@@ -74,6 +71,9 @@ The project includes a Cisco Packet Tracer network topology containing:
 
 ### Bandwidth Monitoring
 ![Bandwidth](screenshots/bandwidth.png)
+
+### Reports Page
+![Reports](reports/login.png)
 
 ## Database
 
