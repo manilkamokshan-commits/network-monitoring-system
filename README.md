@@ -61,7 +61,19 @@ The project includes a Cisco Packet Tracer network topology containing:
 
 ## Screenshots
 
-(Add screenshots here)
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Device Management
+![Devices](screenshots/devices.png)
+
+### Bandwidth Monitoring
+![Bandwidth](screenshots/bandwidth.png)
 
 ## Database
 
