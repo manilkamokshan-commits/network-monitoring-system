@@ -73,7 +73,7 @@ The project includes a Cisco Packet Tracer network topology containing:
 ![Bandwidth](screenshots/bandwidth.png)
 
 ### Reports Page
-![Reports](reports/login.png)
+![Reports](reports/reports.png)
 
 ## Database
 
