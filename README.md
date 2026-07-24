@@ -59,7 +59,7 @@ The project includes a Cisco Packet Tracer network topology containing:
 - Wireless Access Point
 - Client Devices
 
-## Screenshots
+
 
 ## Screenshots
 
@@ -74,6 +74,9 @@ The project includes a Cisco Packet Tracer network topology containing:
 
 ### Reports Page
 ![Reports](screenshots/reports.png)
+
+### Topology
+![Reports](screenshots/topology.png)
 
 ## Database
 
